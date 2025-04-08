@@ -12,10 +12,6 @@ AQL provides a straightforward, readable syntax for making API requests, handlin
 
 There are other features for more convenience: for example, you can access the first key and value from a JSON variable using a special property-name, all-caps “.AQLKEY” and “.AQLVALUE”
 
-## Demo
-
-[![IMAGE_ALT](https://i9.ytimg.com/vi_webp/iif1D77435U/mq2.webp?sqp=CMCS0a4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gPCgdMA8=&rs=AOn4CLCieLfm7vfZrK19frEEp9btALfANg)](https://youtu.be/iif1D77435U)
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
